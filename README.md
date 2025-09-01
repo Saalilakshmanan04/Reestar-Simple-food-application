@@ -1,13 +1,22 @@
 # Reestar-Simple-food-application
-This is a basic restaurant-style website called Reestar, built using only HTML and CSS. The site showcases a few food items with an option to "Order Now" and includes a simple contact form.
+This is a simple two-page restaurant website created using HTML and CSS. It showcases the design of a fictional restaurant named Reestar, with a focus on clean layout and responsive styling.
 
-🌐 Live Pages
-Home / Recipes Section – Displays food items like Chicken hakka noodles, Chicken fry, Pasta, and Garlic prawns.
-Contact Section – Contains a form to enter user details like Name, Age, and Email.
-🛠️ Technologies Used
-HTML5
+🔗 Pages Included Home Page (index.html) – Introduction to the restaurant, welcoming message, and food highlights.
+
+Contact Page (contact.html) – A basic form for users to get in touch.
+
+💻 Technologies Used HTML5
+
 CSS3
-🚀 How to Run
-Clone or download this repository.
-Make sure the image folder is placed in the same directory as index.html.
-Open index.html in your browser to view the website.
+
+🚀 How to Use Clone or download the repository.
+
+Open index.html in any web browser to view the home page.
+
+Navigate to contact.html to access the contact form.
+
+📌 Note This project is front-end only (no backend functionality for the contact form) and can be used as a template or learning resource.
+
+you can access my Reestar Restaurant website visiting by 
+
+thank you for your visiting
